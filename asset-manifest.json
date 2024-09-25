@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rxjs-react-example/static/js/main.b1f06c2a.js",
+    "index.html": "/rxjs-react-example/index.html",
+    "main.b1f06c2a.js.map": "/rxjs-react-example/static/js/main.b1f06c2a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b1f06c2a.js"
+  ]
+}
