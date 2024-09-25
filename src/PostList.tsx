@@ -11,6 +11,7 @@ interface Post {
 const Posts: React.FC = () => {
   const [posts, setPosts] = useState<Post[]>([]);
   const [error, setError] = useState<string | null>(null);
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [subscription, setSubscription] = useState<Subscription | null>(null);
 
   useEffect(() => {
